@@ -1,4 +1,4 @@
-# R-veil_lumineux_V1
+# Réveil_lumineux_V1
 Remplacement du réveil classique par un réveil connecté 
 
 Le reveil sera constitué de 4 rangées de leds.
